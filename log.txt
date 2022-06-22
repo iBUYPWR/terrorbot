@@ -1,0 +1,6 @@
+Wed, 13 May 2020 22:46:19 GMT node-telegram-bot-api deprecated Automatic enabling of cancellation of promises is deprecated.
+In the future, you will have to enable it yourself.
+See https://github.com/yagop/node-telegram-bot-api/issues/319. at internal\modules\cjs\loader.js:701:30
+error: [polling_error] {}
+error: [polling_error] {}
+^C^C
